@@ -12,3 +12,9 @@ Example:
 ```
 ./patches/apply.sh crdroid-10.0
 ```
+
+or if I need more than one folder:
+
+```
+./patches/apply.sh los18.1-rev protonaosp-r
+```
